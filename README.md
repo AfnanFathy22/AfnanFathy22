@@ -29,7 +29,7 @@ I build intelligent, data-driven solutions using Machine Learning, Deep Learning
   </a>
 </p>
 
-\
+
 
 
 ---
