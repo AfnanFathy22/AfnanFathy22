@@ -21,7 +21,7 @@ I build intelligent, data-driven solutions using Machine Learning, Deep Learning
   <a href="https://github.com/AfnanFathy22">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://matrix-masterpiece.lovable.app/">
+  <a href="https://afnan-ai-story.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:afnanfathy22@gmail.com">
